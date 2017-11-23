@@ -1,0 +1,24 @@
+h1{
+	font-family: Arial;
+	font-size:60pt;
+	font-color: solid red;
+	text-align:top center;
+    
+}
+p{
+	
+	font-family:Courier;
+	font-size:30pt;
+	font-color: black;
+	text-align:left;
+    
+
+}
+
+
+
+}
+img{
+	height: 250px;
+	width: 250px;
+}
